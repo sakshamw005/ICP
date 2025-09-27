@@ -6,6 +6,7 @@ DSA@Java
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/sakshamw005/ICP/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
@@ -27,4 +28,12 @@ DSA@Java
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sakshamw005/ICP/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
