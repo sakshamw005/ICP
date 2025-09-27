@@ -13,6 +13,7 @@ DSA@Java
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/sakshamw005/ICP/tree/master/0367-valid-perfect-square) |
 ## Queue
 |  |
 | ------- |
@@ -47,4 +48,8 @@ DSA@Java
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshamw005/ICP/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/sakshamw005/ICP/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
