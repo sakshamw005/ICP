@@ -25,6 +25,7 @@ DSA@Java
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshamw005/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sakshamw005/ICP/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -78,4 +79,12 @@ DSA@Java
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sakshamw005/ICP/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshamw005/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshamw005/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
