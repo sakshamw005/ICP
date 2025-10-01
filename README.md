@@ -13,6 +13,7 @@ DSA@Java
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshamw005/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sakshamw005/ICP/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/sakshamw005/ICP/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshamw005/ICP/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -48,12 +49,14 @@ DSA@Java
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/sakshamw005/ICP/tree/master/0567-permutation-in-string) |
+| [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshamw005/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sakshamw005/ICP/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +117,5 @@ DSA@Java
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sakshamw005/ICP/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
