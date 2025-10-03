@@ -8,6 +8,7 @@ DSA@Java
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sakshamw005/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sakshamw005/ICP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/sakshamw005/ICP/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshamw005/ICP/tree/master/0215-kth-largest-element-in-an-array) |
@@ -77,6 +78,7 @@ DSA@Java
 | ------- |
 | [0054-spiral-matrix](https://github.com/sakshamw005/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sakshamw005/ICP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sakshamw005/ICP/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
@@ -85,6 +87,7 @@ DSA@Java
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sakshamw005/ICP/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -105,6 +108,7 @@ DSA@Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshamw005/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshamw005/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshamw005/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sakshamw005/ICP/tree/master/0567-permutation-in-string) |
@@ -123,4 +127,8 @@ DSA@Java
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshamw005/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0890-lemonade-change](https://github.com/sakshamw005/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
