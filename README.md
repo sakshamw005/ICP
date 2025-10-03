@@ -6,6 +6,7 @@ DSA@Java
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/sakshamw005/ICP/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/sakshamw005/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sakshamw005/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
@@ -130,6 +131,7 @@ DSA@Java
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/sakshamw005/ICP/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/sakshamw005/ICP/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
