@@ -16,6 +16,7 @@ DSA@Java
 | [0239-sliding-window-maximum](https://github.com/sakshamw005/ICP/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/sakshamw005/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshamw005/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0491-non-decreasing-subsequences](https://github.com/sakshamw005/ICP/tree/master/0491-non-decreasing-subsequences) |
 | [0890-lemonade-change](https://github.com/sakshamw005/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshamw005/ICP/tree/master/1046-max-consecutive-ones-iii) |
@@ -104,6 +105,7 @@ DSA@Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshamw005/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshamw005/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshamw005/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0491-non-decreasing-subsequences](https://github.com/sakshamw005/ICP/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/sakshamw005/ICP/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -134,4 +136,9 @@ DSA@Java
 | [0040-combination-sum-ii](https://github.com/sakshamw005/ICP/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/sakshamw005/ICP/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
+| [0491-non-decreasing-subsequences](https://github.com/sakshamw005/ICP/tree/master/0491-non-decreasing-subsequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/sakshamw005/ICP/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
