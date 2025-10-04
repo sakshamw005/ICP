@@ -74,6 +74,7 @@ DSA@Java
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sakshamw005/ICP/tree/master/0062-unique-paths) |
 | [0367-valid-perfect-square](https://github.com/sakshamw005/ICP/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
@@ -122,6 +123,7 @@ DSA@Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sakshamw005/ICP/tree/master/0062-unique-paths) |
 | [0435-non-overlapping-intervals](https://github.com/sakshamw005/ICP/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -141,4 +143,8 @@ DSA@Java
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/sakshamw005/ICP/tree/master/0491-non-decreasing-subsequences) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sakshamw005/ICP/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
