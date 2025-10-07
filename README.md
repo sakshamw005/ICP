@@ -158,4 +158,17 @@ DSA@Java
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshamw005/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
