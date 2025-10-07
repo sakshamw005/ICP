@@ -117,6 +117,7 @@ DSA@Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshamw005/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/sakshamw005/ICP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshamw005/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshamw005/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -157,6 +158,7 @@ DSA@Java
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/sakshamw005/ICP/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshamw005/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
 ## Design
