@@ -56,6 +56,7 @@ DSA@Java
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/sakshamw005/ICP/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
 ## Sorting
@@ -160,6 +161,7 @@ DSA@Java
 | ------- |
 | [0071-simplify-path](https://github.com/sakshamw005/ICP/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshamw005/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -177,4 +179,9 @@ DSA@Java
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sakshamw005/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
