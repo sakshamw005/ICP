@@ -173,4 +173,8 @@ DSA@Java
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sakshamw005/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
