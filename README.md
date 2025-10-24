@@ -33,6 +33,7 @@ DSA@Java
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sakshamw005/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/sakshamw005/ICP/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -164,12 +165,14 @@ DSA@Java
 | [0143-reorder-list](https://github.com/sakshamw005/ICP/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshamw005/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sakshamw005/ICP/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sakshamw005/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sakshamw005/ICP/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sakshamw005/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
