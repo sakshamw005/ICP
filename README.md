@@ -84,6 +84,7 @@ DSA@Java
 | ------- |
 | [0062-unique-paths](https://github.com/sakshamw005/ICP/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshamw005/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/sakshamw005/ICP/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/sakshamw005/ICP/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
@@ -124,6 +125,7 @@ DSA@Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshamw005/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/sakshamw005/ICP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
+| [0227-basic-calculator-ii](https://github.com/sakshamw005/ICP/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/sakshamw005/ICP/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshamw005/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshamw005/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -170,6 +172,7 @@ DSA@Java
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshamw005/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sakshamw005/ICP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sakshamw005/ICP/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/sakshamw005/ICP/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sakshamw005/ICP/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/sakshamw005/ICP/tree/master/0735-asteroid-collision) |
