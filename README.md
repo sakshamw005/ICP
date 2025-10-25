@@ -20,6 +20,7 @@ DSA@Java
 | [0435-non-overlapping-intervals](https://github.com/sakshamw005/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshamw005/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0491-non-decreasing-subsequences](https://github.com/sakshamw005/ICP/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/sakshamw005/ICP/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sakshamw005/ICP/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/sakshamw005/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
@@ -118,6 +119,7 @@ DSA@Java
 | [0424-longest-repeating-character-replacement](https://github.com/sakshamw005/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshamw005/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/sakshamw005/ICP/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/sakshamw005/ICP/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sakshamw005/ICP/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -175,6 +177,7 @@ DSA@Java
 | [0227-basic-calculator-ii](https://github.com/sakshamw005/ICP/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sakshamw005/ICP/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/sakshamw005/ICP/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sakshamw005/ICP/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
 ## Design
@@ -187,6 +190,7 @@ DSA@Java
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sakshamw005/ICP/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/sakshamw005/ICP/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
