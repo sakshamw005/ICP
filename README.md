@@ -122,6 +122,7 @@ DSA@Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshamw005/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/sakshamw005/ICP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
+| [0402-remove-k-digits](https://github.com/sakshamw005/ICP/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshamw005/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshamw005/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sakshamw005/ICP/tree/master/0567-permutation-in-string) |
@@ -139,6 +140,7 @@ DSA@Java
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sakshamw005/ICP/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/sakshamw005/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshamw005/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0890-lemonade-change](https://github.com/sakshamw005/ICP/tree/master/0890-lemonade-change) |
@@ -167,6 +169,7 @@ DSA@Java
 | [0155-min-stack](https://github.com/sakshamw005/ICP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sakshamw005/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/sakshamw005/ICP/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -177,6 +180,7 @@ DSA@Java
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sakshamw005/ICP/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
