@@ -136,6 +136,7 @@ DSA@Java
 | [0424-longest-repeating-character-replacement](https://github.com/sakshamw005/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshamw005/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sakshamw005/ICP/tree/master/0567-permutation-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakshamw005/ICP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -187,6 +188,7 @@ DSA@Java
 | [0735-asteroid-collision](https://github.com/sakshamw005/ICP/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/sakshamw005/ICP/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakshamw005/ICP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Design
 |  |
 | ------- |
