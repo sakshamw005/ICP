@@ -27,6 +27,7 @@ DSA@Java
 | [0890-lemonade-change](https://github.com/sakshamw005/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshamw005/ICP/tree/master/1046-max-consecutive-ones-iii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sakshamw005/ICP/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ DSA@Java
 | ------- |
 | [0054-spiral-matrix](https://github.com/sakshamw005/ICP/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/sakshamw005/ICP/tree/master/0735-asteroid-collision) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sakshamw005/ICP/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@ DSA@Java
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshamw005/ICP/tree/master/1046-max-consecutive-ones-iii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sakshamw005/ICP/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
