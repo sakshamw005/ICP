@@ -27,6 +27,7 @@ DSA@Java
 | [0890-lemonade-change](https://github.com/sakshamw005/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshamw005/ICP/tree/master/1046-max-consecutive-ones-iii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sakshamw005/ICP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sakshamw005/ICP/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Binary Search
 |  |
@@ -127,6 +128,7 @@ DSA@Java
 | [0491-non-decreasing-subsequences](https://github.com/sakshamw005/ICP/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/sakshamw005/ICP/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sakshamw005/ICP/tree/master/0567-permutation-in-string) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sakshamw005/ICP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -216,6 +218,7 @@ DSA@Java
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sakshamw005/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/sakshamw005/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sakshamw005/ICP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
