@@ -27,6 +27,7 @@ DSA@Java
 | [0890-lemonade-change](https://github.com/sakshamw005/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshamw005/ICP/tree/master/1046-max-consecutive-ones-iii) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sakshamw005/ICP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sakshamw005/ICP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sakshamw005/ICP/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Binary Search
@@ -100,11 +101,13 @@ DSA@Java
 | [0079-word-search](https://github.com/sakshamw005/ICP/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sakshamw005/ICP/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/sakshamw005/ICP/tree/master/0200-number-of-islands) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sakshamw005/ICP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sakshamw005/ICP/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/sakshamw005/ICP/tree/master/0735-asteroid-collision) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sakshamw005/ICP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sakshamw005/ICP/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Depth-First Search
 |  |
