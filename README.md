@@ -63,6 +63,7 @@ DSA@Java
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/sakshamw005/ICP/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sakshamw005/ICP/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/sakshamw005/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
@@ -221,6 +222,7 @@ DSA@Java
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sakshamw005/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/sakshamw005/ICP/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/sakshamw005/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sakshamw005/ICP/tree/master/0234-palindrome-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sakshamw005/ICP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
