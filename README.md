@@ -26,6 +26,7 @@ DSA@Java
 | [0883-car-fleet](https://github.com/sakshamw005/ICP/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/sakshamw005/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sakshamw005/ICP/tree/master/0917-boats-to-save-people) |
+| [0946-validate-stack-sequences](https://github.com/sakshamw005/ICP/tree/master/0946-validate-stack-sequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakshamw005/ICP/tree/master/1046-max-consecutive-ones-iii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sakshamw005/ICP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sakshamw005/ICP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -108,6 +109,7 @@ DSA@Java
 | ------- |
 | [0054-spiral-matrix](https://github.com/sakshamw005/ICP/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/sakshamw005/ICP/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/sakshamw005/ICP/tree/master/0946-validate-stack-sequences) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sakshamw005/ICP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sakshamw005/ICP/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Depth-First Search
@@ -199,6 +201,7 @@ DSA@Java
 | [0735-asteroid-collision](https://github.com/sakshamw005/ICP/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/sakshamw005/ICP/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/sakshamw005/ICP/tree/master/0937-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/sakshamw005/ICP/tree/master/0946-validate-stack-sequences) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakshamw005/ICP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Design
 |  |
